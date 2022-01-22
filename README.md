@@ -51,10 +51,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/mithun-vinayak"><img src="https://img.shields.io/badge/-Mithun%20Vinayak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mithun-vinayak"><img src="https://img.shields.io/badge/-Mithun%20Vinayak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mithunvinayak10@gmail.com"><img src="https://img.shields.io/badge/-mithunvinayak10-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/___fierce___spartan___"><img src="https://img.shields.io/badge/___fierce___spartan___-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/Mîťhûñ Vîñãýãk"><img src="https://img.shields.io/badge/-Mîťhûñ Vîñãýãk-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/___fierce___spartan___"><img src="https://img.shields.io/badge/@___fierce___spartan___-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/Mîťhûñ Vîñãýãk"><img src="https://img.shields.io/badge/-@Mîťhûñ Vîñãýãk-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
