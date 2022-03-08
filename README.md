@@ -10,7 +10,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Masters in Software systems in Coimbatore Institute of Technology.\
-🌱 &nbsp;I'm on track for learning more about Full Stack Development Cloud.\
+🌱 &nbsp;I'm on track for learning more about Full Stack Development.\
 ✍️ &nbsp;In my free time, I pursue Teaching as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mithunvinayak10@gmail.com! I'll try to respond as soon as I can.
