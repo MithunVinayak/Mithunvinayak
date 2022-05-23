@@ -1,7 +1,7 @@
 ![Mithun Vinayak Banner](https://github.com/MithunVinayak/Mithunvinayak/blob/master/Assets/Banner_Gif.gif)
 
 
-## <h2 align='center'>👋 &nbsp; Hey there! I'm Mithun Vinayak</h2>
+## <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Mithun Vinayak</h2>
 <h3 align="center">An Inquisitive Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunvinayak&label=Profile%20views&color=0e75b6&style=flat" alt="mithunvinayak" /> </p>
@@ -33,6 +33,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
