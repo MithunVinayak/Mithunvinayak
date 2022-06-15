@@ -1,7 +1,7 @@
 ![Mithun Vinayak Banner](https://github.com/MithunVinayak/Mithunvinayak/blob/master/Assets/Banner_Gif.gif)
 
 
-## <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Mithun Vinayak</h2>
+## <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30"> I'm Mithun Vinayak</h2>
 <h3 align="center">An Inquisitive Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunvinayak&label=Profile%20views&color=0e75b6&style=flat" alt="mithunvinayak" /> </p>
